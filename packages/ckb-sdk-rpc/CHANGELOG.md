@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.26.0](https://github.com/nervosnetwork/ckb-sdk-js/compare/v0.25.0...v0.26.0) (2019-12-13)
+
+
+### Bug Fixes
+
+* **rpc:** add missing types in rpc type def ([8427341](https://github.com/nervosnetwork/ckb-sdk-js/commit/842734137f7129f94c397f8f12ca79eab7ad3cf9))
+* **rpc:** fix the type def of ScriptHashType ([217a579](https://github.com/nervosnetwork/ckb-sdk-js/commit/217a5797d03423ce020d6dba9b23f778dea16632))
+
+
+### Features
+
+* **type:** update the return type of rpc.getCellsByLockHash ([30aa494](https://github.com/nervosnetwork/ckb-sdk-js/commit/30aa494583c2bc8c71282b29058d6ffe6495a5ce))
+
+
+
+
+
 # [0.25.0](https://github.com/nervosnetwork/ckb-sdk-js/compare/v0.25.0-alpha.0...v0.25.0) (2019-11-16)
 
 **Note:** Version bump only for package @nervosnetwork/ckb-sdk-rpc
